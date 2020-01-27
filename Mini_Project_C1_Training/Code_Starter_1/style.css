@@ -1,0 +1,87 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color:hsl(0, 0%, 98%);
+}
+.contenu{
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: auto ;
+    padding: 50px;
+}
+h2{
+    color: hsl(180, 0%, 46%);
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    font-weight: 200;
+
+}
+h1{
+    color: hsl(234, 12%, 34%) ;
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+.full{
+    color:Bleu hsl(212, 86%, 64%);
+    font-family:'Poppins', sans-serif;
+}
+.par1{
+    background-color:white;
+    text-align: center;
+    border-top: 4px solid hsl(180, 62%, 55%);
+    border-radius: 5px;
+    padding: 10px;
+}
+.par2{
+    background-color:white;
+    text-align: center;
+    border-top: 4px solid hsl(0, 78%, 62%);
+    border-radius: 5px;
+}
+.par3{
+    background-color:white;
+    text-align: center;
+    border-top: 4px solid hsl(34, 97%, 64%);
+    border-radius: 5px;
+}
+.par4{
+    background-color:white;
+    text-align: center;
+    border-top: 4px solid hsl(212, 86%, 64%);
+    border-radius: 5px;
+}
+.photo{
+    height: 40px;
+    position: relative;
+    left:150px;
+    top: 60px;
+}
+.full{
+    color: hsl(234, 12%, 34%);
+    position: relative;
+    right: 80px;
+    
+}
+.pad{
+    margin-bottom: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 240px;
+    padding-bottom: -60px;
+}
+h3{
+    font-size:  18px;
+}
+.para{
+    color: hsl(180, 0%, 46%);
+    position: relative;
+    right: 20px;
+    font-size: 15px;
+}
+.our{
+    color: hsl(180, 0%, 46%);
+}
+.titre{
+    margin: 70px;
+}
