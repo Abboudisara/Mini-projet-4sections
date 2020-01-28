@@ -1,4 +1,4 @@
-# Guide de style pour le front-end
+﻿# Guide de style pour le front-end
 
 ## Mise en page
 
@@ -32,3 +32,4 @@ Les dessins ont été créés dans les largeurs suivantes :
 
 - La famille : [Poppins](https://fonts.google.com/specimen/Poppins)
 - Les poids : 200, 400, 600
+
