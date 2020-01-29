@@ -108,3 +108,21 @@ h4 {
 h6{
     color:hsl(179, 62%, 43%);
 }
+@media(min-width:1000px){
+    .contenu{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-template-areas: "section1  section1"
+                             "section2  section3";
+    }
+    .section1{
+        grid-area: section1;
+    }
+    .section2{
+        grid-area: section2;
+    }
+    .section3{
+        grid-area: section3;
+    }
+}
