@@ -1,0 +1,110 @@
+.contenu {
+    padding: O;
+    margin: O;
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    text-align: left;
+    padding: 30px;
+    background-color: #e2ecf5;
+}
+
+h1 {
+    color: hsl(179, 62%, 43%);
+    font-size: 25px;
+    padding-top: 10px;
+    position: relative;
+    left: 35px;
+}
+
+h2 {
+    color: hsl(71, 73%, 54%);
+    font-size: 15px;
+    position: relative;
+    left: 35px;
+}
+
+.par1 {
+    color: hsl(218, 22%, 67%);
+}
+
+.section2 {
+    background-color: hsl(179, 62%, 43%);
+    text-align: 1px;
+}
+
+.section1 {
+    background-color: white;
+}
+
+.section3 {
+    background-color: #4abebd;
+}
+
+.section2 {
+    color: white;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 15px;
+    padding: 5px;
+    position: relative;
+    left: 35px;
+    top: 10px;
+
+}
+
+span {
+    color: #6ddedc;
+    font-size: 20px;
+}
+
+.btn {
+    height: 40px;
+    width: 250px;
+    background-color: #bfdf32;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: white;
+    border: none;
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+}
+
+.section3 {
+    color: white;
+    padding: 15px;
+}
+
+p {
+    text-align: 40px;
+    position: relative;
+    left: 34px;
+}
+
+h4 {
+    position: relative;
+    left: 35px;
+    bottom: 10px;
+    font-size: 25px;
+    
+}
+
+.full {
+    color: #96dbda;
+    position: relative;
+    bottom: 35px;
+}
+
+.tutorial {
+    color: #96dbda;
+}
+h6{
+    color:hsl(179, 62%, 43%);
+}
